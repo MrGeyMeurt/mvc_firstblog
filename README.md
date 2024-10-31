@@ -1,24 +1,24 @@
 update: 29/07/2024 - correction d'erreurs due à un écran blanc, j'ai changer le nom de la bdd
 
 <-- Table des matières -->
-/media -------> Racines des images du site
-/icon --------> Illustrations utilisé sur le site
-/articles ----> Vue des articles
-/backoffice --> Backoffice complet
-/images ------> Vue du carrousel
-/layout ------> Page d'accueil
-/main --------> Sélection des pages à afficher
-favicon.ico --> icone du site
+- /media -------> Racines des images du site
+- /icon --------> Illustrations utilisé sur le site
+- /articles ----> Vue des articles
+- /backoffice --> Backoffice complet
+- /images ------> Vue du carrousel
+- /layout ------> Page d'accueil
+- /main --------> Sélection des pages à afficher
+- favicon.ico --> icone du site
 
 <-- Informations utiles -->
-Le site à été au maximum codé à l'aide de bootstrap pour le responsive.
+- Le site à été au maximum codé à l'aide de bootstrap pour le responsive.
 
 <-- Outils utilisés -->
-Bootstrap 5
-Jquery 3.6.0
-WAMP server
-phpMyAdmin 5.0.2
-https://undraw.co/illustrations (pour des illsutrations libres de droits)
+- Bootstrap 5
+- Jquery 3.6.0
+- WAMP server
+- phpMyAdmin 5.0.2
+- https://undraw.co/illustrations (pour des illsutrations libres de droits)
 
 <-- Base de données -->
 
