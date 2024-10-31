@@ -20,7 +20,6 @@ WAMP server
 phpMyAdmin 5.0.2
 https://undraw.co/illustrations (pour des illsutrations libres de droits)
 
-
 <! Base de données -->
 
 - le fichier sql de ma bdd se trouve dans MVC/bdd/monsite.sql
@@ -29,7 +28,6 @@ https://undraw.co/illustrations (pour des illsutrations libres de droits)
 	login: root
 	mdp:
 	serveur: MySQL
-
 
 <!-- Backoffice -->
 - Pour acceder au backoffice il faut cliquer sur le "©" du copyright du footer
