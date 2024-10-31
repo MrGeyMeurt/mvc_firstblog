@@ -18,7 +18,7 @@ update: 29/07/2024 - correction d'erreurs due à un écran blanc, j'ai changer l
 - Jquery 3.6.0
 - WAMP server
 - phpMyAdmin 5.0.2
-- https://undraw.co/illustrations (pour des illsutrations libres de droits)
+- https://undraw.co/illustrations (pour des illustrations libres de droits)
 
 <-- Base de données -->
 
