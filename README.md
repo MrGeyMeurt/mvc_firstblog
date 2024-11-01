@@ -4,7 +4,9 @@
 This project is a student exercise to build a blog using the MVC (Model-View-Controller) architecture. The blog is designed as a simple, functional web application that demonstrates the MVC pattern using HTML, CSS, Bootstrap 5, PHP, MySQL, and jQuery. The project is hosted locally using WAMP Server with PHPMyAdmin for database management.
 
 ## Update
-- 29/07/2024 - Fixed errors leading to a blank screen; changed the database name.
+- 27/07/2022 - 1.0 Release
+- 29/07/2024 - Fixed errors leading to a blank screen and changed the database name.
+- 01/11/2024 - Rework of the ``README.mt`` and adding a ``LICENSE.mt``
 
 ## Project Structure
 - **/media**: Root directory for images used on the site
