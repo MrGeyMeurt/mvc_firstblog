@@ -38,12 +38,13 @@ This project is a student exercise to build a blog using the MVC (Model-View-Con
   - **Password**: (leave blank)
   - **Server**: MySQL
 
-## Backoffice Access
+## Backoffice
+> [!NOTE]
+> If an image is added without specifying a path, the default path will be ``/media``.
 - To access the backoffice, click on the copyright symbol ("©") in the footer.
 - **Portal Credentials**:
   - **Username**: admin
   - **Password**: password (tooltip appears on hover of the "Log In" button)
-- If an image is added without specifying a path, the default path will be ``/media``.
 
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
