@@ -39,12 +39,14 @@ This project is a student exercise to build a blog using the MVC (Model-View-Con
   - **Server**: MySQL
 
 ## Backoffice
-> [!NOTE]
-> If an image is added without specifying a path, the default path will be ``/media``.
-- To access the backoffice, click on the copyright symbol ("©") in the footer.
+- To access the backoffice, click on the copyright symbol © in the footer.
+> [!TIP]
+> If you hover over the 'Se connecter' button, a tooltip appears displaying the password.
 - **Portal Credentials**:
   - **Username**: admin
-  - **Password**: password (tooltip appears on hover of the "Log In" button)
+  - **Password**: password
+> [!NOTE]
+> If an image is added without specifying a path, the default path will be ``/media``.
 
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
