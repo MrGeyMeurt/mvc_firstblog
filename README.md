@@ -10,13 +10,13 @@ This project is a student exercise to build a blog using the MVC (Model-View-Con
 - **01/11/2024**: Rework of the ``README.mt`` and adding a ``LICENSE.mt``
 
 ## Project Structure
-- **/media**: Root directory for images used on the site
-- **/icon**: Illustrations used throughout the site
-- **/articles**: Views of the articles
-- **/backoffice**: Complete backoffice for managing content
-- **/images**: View for the carousel
-- **/layout**: Homepage layout
-- **/main**: Page selection display
+- ``/media``: Root directory for images used on the site
+- ``/icon``: Illustrations used throughout the site
+- ``/articles``: Views of the articles
+- ``/backoffice``: Complete backoffice for managing content
+- ``/images``: View for the carousel
+- ``/layout``: Homepage layout
+- ``/main``: Page selection display
 - favicon.ico: Site icon
 
 ## Features
